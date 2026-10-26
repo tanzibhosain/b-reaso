@@ -10,7 +10,7 @@ This is the repository for [B-REASO: A Multi-Level Multi-Faceted Bengali Evaluat
 
 Clone the project, run:
 
-	git clone https://github.com/kraritt/b-reaso && cd b-reaso
+	git clone https://github.com/tanzibhosain/b-reaso && cd b-reaso
 
 Prepare a new conda or python virtual environment, run:
 	
